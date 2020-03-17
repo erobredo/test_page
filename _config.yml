@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://erobredo.github.io/photorama/gallery/"  
-  - JOURNAL: "https://erobredo.github.io/photorama/journal/"
-  - ABOUT: "https://erobredo.github.io/photorama/about/"
+  - GALLERY: "https://erobredo.github.io/test_page/gallery/"  
+  - JOURNAL: "https://erobredo.github.io/test_page/journal/"
+  - ABOUT: "https://erobredo.github.io/test_page/about/"
 
 # All translation keys
 translations:
